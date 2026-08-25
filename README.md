@@ -1,8 +1,10 @@
 ## Hi, I'm Afia 👋
-# Web Developer | Data Analytics Enthusiast
+# Aspiring Data Analyst | Business Analytics | Data-Driven Problem Solving
 ---
 # 💫 About Me:
-<br>I'm a Frontend-Focused Web Developer with a growing interest in Data Analytics and Business Intelligence.<br>Currently working on a full-stack MERN project to strengthen my development skills.<br>Alongside development, I'm learning data storytelling, business analysis, and how to turn data into meaningful insights for better decision-making.<br>Ask me about:<br>Web Development, React.js, Next.js, Data Analytics, SQL & Excel
+<br>I'm an aspiring Data Analyst with a strong interest in Data Analytics, Business Analytics, Business Insights, and People & Operations Management.
+
+I'm currently developing my skills in Microsoft Excel, SQL, Data Analysis, Data Visualization, and Business Reporting. I enjoy working with data, finding patterns, organizing information, and turning raw data into meaningful insights that can support better business decisions.
 
 
 ## 🌐 Socials:
