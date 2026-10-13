@@ -1,5 +1,5 @@
 ## Hi, I'm Afia 👋
-![image alt](https://github.com/afia-labonno/afia-labonno/blob/b0928a5ecc37c522923a75385961c574cec5144c/github-cover.png)
+![image alt](https://github.com/afia-labonno/afia-labonno/blob/4a77482a392ce16d3d637177ce1f818341309be7/github-cover-web.png)
 # 💫 About Me:
 I'm an aspiring Data Analyst with a strong interest in Data Analytics, Business Analytics, Business Insights, and People & Operations Management.
 
